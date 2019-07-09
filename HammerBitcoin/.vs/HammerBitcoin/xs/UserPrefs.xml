@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{264AE482-E553-42E0-A362-6C936AE17E43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BitcoinMiner.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="15" />
+      <File FileName="BitcoinMiner.cs" Line="201" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HammerBitcoin" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="HammerBitcoin" expanded="True">
+              <Node name="BitcoinMiner.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HammerBitcoin PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

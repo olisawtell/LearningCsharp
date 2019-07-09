@@ -1,0 +1,22 @@
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/olisawtell/Desktop/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb

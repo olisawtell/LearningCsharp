@@ -1,0 +1,11 @@
+/Users/olisawtell/Desktop/C#Programs/UserInput/bin/Debug/netcoreapp2.1/UserInput.deps.json
+/Users/olisawtell/Desktop/C#Programs/UserInput/bin/Debug/netcoreapp2.1/UserInput.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/UserInput/bin/Debug/netcoreapp2.1/UserInput.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/UserInput/bin/Debug/netcoreapp2.1/UserInput.dll
+/Users/olisawtell/Desktop/C#Programs/UserInput/bin/Debug/netcoreapp2.1/UserInput.pdb
+/Users/olisawtell/Desktop/C#Programs/UserInput/obj/Debug/netcoreapp2.1/UserInput.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/UserInput/obj/Debug/netcoreapp2.1/UserInput.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/UserInput/obj/Debug/netcoreapp2.1/UserInput.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/UserInput/obj/Debug/netcoreapp2.1/UserInput.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/UserInput/obj/Debug/netcoreapp2.1/UserInput.dll
+/Users/olisawtell/Desktop/C#Programs/UserInput/obj/Debug/netcoreapp2.1/UserInput.pdb

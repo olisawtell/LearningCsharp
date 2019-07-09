@@ -1,0 +1,6 @@
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/ClassesIntro/ClassesIntro/bin/Debug/ClassesIntro.exe
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/ClassesIntro/ClassesIntro/bin/Debug/ClassesIntro.pdb
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/ClassesIntro/ClassesIntro/obj/x86/Debug/ClassesIntro.csprojAssemblyReference.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/ClassesIntro/ClassesIntro/obj/x86/Debug/ClassesIntro.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/ClassesIntro/ClassesIntro/obj/x86/Debug/ClassesIntro.exe
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/ClassesIntro/ClassesIntro/obj/x86/Debug/ClassesIntro.pdb

@@ -1,0 +1,11 @@
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/bin/Debug/netcoreapp2.1/BuiltInTypes.deps.json
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/bin/Debug/netcoreapp2.1/BuiltInTypes.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/bin/Debug/netcoreapp2.1/BuiltInTypes.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/bin/Debug/netcoreapp2.1/BuiltInTypes.dll
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/bin/Debug/netcoreapp2.1/BuiltInTypes.pdb
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/obj/Debug/netcoreapp2.1/BuiltInTypes.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/obj/Debug/netcoreapp2.1/BuiltInTypes.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/obj/Debug/netcoreapp2.1/BuiltInTypes.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/obj/Debug/netcoreapp2.1/BuiltInTypes.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/obj/Debug/netcoreapp2.1/BuiltInTypes.dll
+/Users/olisawtell/Desktop/C#Programs/BuiltInTypes/obj/Debug/netcoreapp2.1/BuiltInTypes.pdb

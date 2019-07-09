@@ -1,0 +1,6 @@
+/Users/olisawtell/Projects/ForLoop/ForLoop/bin/Debug/ForLoop.exe
+/Users/olisawtell/Projects/ForLoop/ForLoop/bin/Debug/ForLoop.pdb
+/Users/olisawtell/Projects/ForLoop/ForLoop/obj/x86/Debug/ForLoop.csprojAssemblyReference.cache
+/Users/olisawtell/Projects/ForLoop/ForLoop/obj/x86/Debug/ForLoop.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Projects/ForLoop/ForLoop/obj/x86/Debug/ForLoop.exe
+/Users/olisawtell/Projects/ForLoop/ForLoop/obj/x86/Debug/ForLoop.pdb

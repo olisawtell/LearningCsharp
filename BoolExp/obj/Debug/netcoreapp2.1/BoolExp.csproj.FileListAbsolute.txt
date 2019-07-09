@@ -1,0 +1,22 @@
+/Users/olisawtell/Desktop/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.deps.json
+/Users/olisawtell/Desktop/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.dll
+/Users/olisawtell/Desktop/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.pdb
+/Users/olisawtell/Desktop/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.dll
+/Users/olisawtell/Desktop/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.pdb
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.deps.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.runtimeconfig.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.runtimeconfig.dev.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.dll
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/bin/Debug/netcoreapp2.1/BoolExp.pdb
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.csprojAssemblyReference.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.AssemblyInfoInputs.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.AssemblyInfo.cs
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.dll
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/BoolExp/obj/Debug/netcoreapp2.1/BoolExp.pdb

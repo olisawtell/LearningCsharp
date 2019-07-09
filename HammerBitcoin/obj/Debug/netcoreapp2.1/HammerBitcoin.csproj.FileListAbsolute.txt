@@ -1,0 +1,22 @@
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.deps.json
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.dll
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.pdb
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.dll
+/Users/olisawtell/Desktop/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.pdb
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.deps.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.runtimeconfig.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.runtimeconfig.dev.json
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.dll
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/bin/Debug/netcoreapp2.1/HammerBitcoin.pdb
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.csprojAssemblyReference.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.AssemblyInfoInputs.cache
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.AssemblyInfo.cs
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.dll
+/Users/olisawtell/Library/Mobile Documents/com~apple~CloudDocs/Coding/C#Programs/HammerBitcoin/obj/Debug/netcoreapp2.1/HammerBitcoin.pdb

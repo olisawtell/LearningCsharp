@@ -1,0 +1,11 @@
+/Users/olisawtell/Desktop/C#Programs/Accuracy/bin/Debug/netcoreapp2.1/Accuracy.deps.json
+/Users/olisawtell/Desktop/C#Programs/Accuracy/bin/Debug/netcoreapp2.1/Accuracy.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/Accuracy/bin/Debug/netcoreapp2.1/Accuracy.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/Accuracy/bin/Debug/netcoreapp2.1/Accuracy.dll
+/Users/olisawtell/Desktop/C#Programs/Accuracy/bin/Debug/netcoreapp2.1/Accuracy.pdb
+/Users/olisawtell/Desktop/C#Programs/Accuracy/obj/Debug/netcoreapp2.1/Accuracy.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/Accuracy/obj/Debug/netcoreapp2.1/Accuracy.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/Accuracy/obj/Debug/netcoreapp2.1/Accuracy.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/Accuracy/obj/Debug/netcoreapp2.1/Accuracy.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/Accuracy/obj/Debug/netcoreapp2.1/Accuracy.dll
+/Users/olisawtell/Desktop/C#Programs/Accuracy/obj/Debug/netcoreapp2.1/Accuracy.pdb

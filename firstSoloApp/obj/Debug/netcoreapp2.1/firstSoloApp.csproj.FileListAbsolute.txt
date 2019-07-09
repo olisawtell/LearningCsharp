@@ -1,0 +1,11 @@
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/bin/Debug/netcoreapp2.1/firstSoloApp.deps.json
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/bin/Debug/netcoreapp2.1/firstSoloApp.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/bin/Debug/netcoreapp2.1/firstSoloApp.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/bin/Debug/netcoreapp2.1/firstSoloApp.dll
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/bin/Debug/netcoreapp2.1/firstSoloApp.pdb
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/obj/Debug/netcoreapp2.1/firstSoloApp.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/obj/Debug/netcoreapp2.1/firstSoloApp.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/obj/Debug/netcoreapp2.1/firstSoloApp.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/obj/Debug/netcoreapp2.1/firstSoloApp.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/obj/Debug/netcoreapp2.1/firstSoloApp.dll
+/Users/olisawtell/Desktop/C#Programs/firstSoloApp/obj/Debug/netcoreapp2.1/firstSoloApp.pdb

@@ -1,0 +1,11 @@
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.deps.json
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.dll
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/bin/Debug/netcoreapp2.1/SimpleMenu.pdb
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.dll
+/Users/olisawtell/Desktop/C#Programs/SimpleMenu/obj/Debug/netcoreapp2.1/SimpleMenu.pdb

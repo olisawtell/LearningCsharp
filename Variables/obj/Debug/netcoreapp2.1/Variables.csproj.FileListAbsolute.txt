@@ -1,0 +1,11 @@
+/Users/olisawtell/Desktop/C#Programs/Variables/bin/Debug/netcoreapp2.1/Variables.deps.json
+/Users/olisawtell/Desktop/C#Programs/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.json
+/Users/olisawtell/Desktop/C#Programs/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.dev.json
+/Users/olisawtell/Desktop/C#Programs/Variables/bin/Debug/netcoreapp2.1/Variables.dll
+/Users/olisawtell/Desktop/C#Programs/Variables/bin/Debug/netcoreapp2.1/Variables.pdb
+/Users/olisawtell/Desktop/C#Programs/Variables/obj/Debug/netcoreapp2.1/Variables.csprojAssemblyReference.cache
+/Users/olisawtell/Desktop/C#Programs/Variables/obj/Debug/netcoreapp2.1/Variables.csproj.CoreCompileInputs.cache
+/Users/olisawtell/Desktop/C#Programs/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfoInputs.cache
+/Users/olisawtell/Desktop/C#Programs/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfo.cs
+/Users/olisawtell/Desktop/C#Programs/Variables/obj/Debug/netcoreapp2.1/Variables.dll
+/Users/olisawtell/Desktop/C#Programs/Variables/obj/Debug/netcoreapp2.1/Variables.pdb
